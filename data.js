@@ -1,35 +1,58 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
-    `Eager to apply my technical expertise and in-depth
-    product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
+    "I am Md Shamiul Islam Tamim, a Computer Science and Engineering fresher from AIUB.",
+    "Eager to apply my technical knowledge and skills to tackle challenging projects and make a meaningful impact.",
     "Thanks for taking the time to learn a little about me!",
 ];
+
 
 export const skills = [
     {
         title: "Languages",
-        skillName: "JavaScript, TypeScript",
+        skillName: "C#",
+        color: "2",
+        percentage: "95",
+    },
+    {
+        title: "Languages",
+        skillName: "JavaScript",
         color: "1",
-        percentage: "80",
+        percentage: "75",
+    },
+    {
+        title: "Languages",
+        skillName: "Python",
+        color: "2",
+        percentage: "85",
     },
     {
         title: "Frameworks/Libraries",
-        skillName: "Angular, RxJS, NGXS",
+        skillName: "Angular",
         color: "6",
         percentage: "70",
     },
     {
+        title: "Frameworks/Libraries",
+        skillName: "Asp.net",
+        color: "6",
+        percentage: "90",
+    },
+    {
+        title: "Frameworks/Libraries",
+        skillName: ".Net framework",
+        color: "6",
+        percentage: "80",
+    },
+    {
         title: "Design",
-        skillName: "HTML, Bootstrap, Tailwind",
+        skillName: "HTML, Bootstrap",
         color: "4",
         percentage: "70",
     },
     {
         title: "Version Control",
-        skillName: "GitHub, JIRA, Bitbucket",
+        skillName: "GitHub",
         color: "7",
-        percentage: "70",
+        percentage: "80",
     },
     {
         title: "Tools",
@@ -38,16 +61,10 @@ export const skills = [
         percentage: "80",
     },
     {
-        title: "Analytics",
-        skillName: "CleverTap, Countly",
-        color: "5",
-        percentage: "50",
-    },
-    {
         title: "IDE",
-        skillName: "VS Code",
+        skillName: "VS Code, Visual Studio",
         color: "6",
-        percentage: "70",
+        percentage: "85",
     },
 ];
 
@@ -213,9 +230,9 @@ export const experience = [
 
 export const education = [
     {
-        title: "B.Tech. in Computer Science and Engineering",
-        duration: "2016 - 2020",
-        subtitle: "National Institute of Technology, Warangal",
+        title: "B.Sc. in Computer Science and Engineering",
+        duration: "2019 - 2023",
+        subtitle: "American International University, Bangladesh",
         details: [],
         tags: [
             "Data Structures & Algorithms",
@@ -223,19 +240,20 @@ export const education = [
             "Database Management System",
             "Computer Networks",
             "Compiler Designing",
-            "Cloud Computing",
+            "Software Requirement Engineering",
         ],
         icon: "graduation-cap",
     },
     {
-        title: "Class 12th in Science and Mathematics",
-        duration: "",
-        subtitle: "Board of Secondary Education, Rajasthan",
+        title: "H.S.C",
+        duration: "2016 - 2018",
+        subtitle: "Government Science College, Tejgaon, dhaka",
         details: [],
         tags: ["Physics", "Chemistry", "Mathematics"],
         icon: "book",
     },
 ];
+
 
 export const footer = [
     {
@@ -243,15 +261,15 @@ export const footer = [
         data: [
             {
                 text: "Stackoverflow",
-                link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+                link: "https://stackoverflow.com/users/22828881/shamiul-tamim",
             },
             {
                 text: "GitHub",
-                link: "https://github.com/vinaysomawat",
+                link: "https://github.com/itsonlytamim",
             },
             {
                 text: "LeetCode",
-                link: "https://leetcode.com/somawatvinay/",
+                link: "https://leetcode.com/itsonlytamim/",
             },
         ],
     },
@@ -268,7 +286,7 @@ export const footer = [
             },
             {
                 text: "Clone this page",
-                link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+                link: "https://github.com/vinaysomawat/itsonlytamim.github.io",
             },
         ],
     },
@@ -277,11 +295,11 @@ export const footer = [
         data: [
             {
                 text: "Linkedin",
-                link: "https://www.linkedin.com/in/vinaysomawat/",
+                link: "https://www.linkedin.com/in/itsonlytamimm/",
             },
             {
                 text: "Twitter",
-                link: "https://twitter.com/thesigmakid",
+                link: "https://twitter.com/itsonlytamim",
             },
             {
                 text: "Buy me a coffee",
@@ -292,7 +310,7 @@ export const footer = [
     {
         label: "copyright-text",
         data: [
-            "Made with &hearts; by Vinay Somawat.",
+            "Made with &hearts; by Md Shamiul Islam Tamim.",
             "&copy; No Copyrights. Feel free to use this template.",
         ],
     },
