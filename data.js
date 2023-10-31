@@ -87,7 +87,6 @@ export const projects = {
             techStack: ["C#","ASP.NET Web API","HTML","CSS","Angular Js","Bootstrap","Microsoft SQL Server","git"],
         },
        
-        {
     ],
     softwareProjects: [
         {
