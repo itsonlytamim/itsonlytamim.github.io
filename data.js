@@ -171,7 +171,13 @@ export const footer = [
                 text: "Clone this page",
                 link: "https://github.com/itsonlytamim/itsonlytamim.github.io",
             },
-            
+             {
+
+                 text: "Download my CV",
+                 link: "/images/Tamim, Md Shamiul Islam CV .pdf",
+                 download: "Tamim, Md Shamiul Islam CV .pdf",       
+            },
+
         ],
     },
     {
