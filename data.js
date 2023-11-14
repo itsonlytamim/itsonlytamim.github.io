@@ -75,7 +75,7 @@ export const projects = {
             image: "images/programmingdiaries.png",
             summary:
                 "Moveez is a movie ticket management system that enables users to book tickets for movies available in nearby cinema halls.",
-            preview: "https://programmingdiaries.herokuapp.com/",
+            preview: "https://github.com/itsonlytamim/Moveez-A-movie-Ticket-Management-System-",
             techStack: ["C#","ASP.NET Web API","HTML","CSS","Angular Js","Bootstrap","Microsoft SQL Server","git"],
         },
         {
@@ -83,7 +83,7 @@ export const projects = {
             image: "images/findyourbank.png",
             summary:
                 "StudentDoc App is a document management platform that empowers students to efficiently manage their documents, allowing them to upload, update, delete, and download files for future use.",
-            preview: "https://clever-fermi-0d5d76.netlify.app",
+            preview: "https://github.com/itsonlytamim/StudentDoc-App",
             techStack: ["C#","ASP.NET Web API","HTML","CSS","Angular Js","Bootstrap","Microsoft SQL Server","git"],
         },
        
@@ -94,7 +94,7 @@ export const projects = {
             image: "images/pizzaorderchatbot.png",
             summary:
                 "Chaya Healthcare Solution is a chat application that facilitates communication between patients and doctors, designed to improve healthcare interactions.",
-            preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+            preview: "https://github.com/itsonlytamim/Chaya-Healthcare-Solution",
             techStack: ["C#",".NET Framework","Windows Forms (WPF)","Microsoft SQL Server"],
         },
     ],
@@ -104,7 +104,7 @@ export const projects = {
             image: "images/nitwcse.jpg",
             summary:
                 "Classification-based Machine Learning Model Development For Diabetes Prediction is a data-driven project aimed at predicting diabetes with the power of machine learning and data science technique",
-            preview: "https://github.com/vinaysomawat/NITW-CSE",
+            preview: "https://github.com/itsonlytamim/Classification-based-Machine-learning-Model-Development-For-Diabetes-Prediction",
             techStack: ["Machine Learning Algorithms","Python","Scikit-learn","Pandas","Jupyter Notebooks","Diabetes Datasets"],
         },
     ],
