@@ -72,7 +72,7 @@ export const projects = {
     webProjects: [
         {
             projectName: "Moveez (A movie ticket management System)",
-            image: "images/programmingdiaries.png",
+            image: "images/moveez.JPG",
             summary:
                 "Moveez is a movie ticket management system that enables users to book tickets for movies available in nearby cinema halls.",
             preview: "https://github.com/itsonlytamim/Moveez-A-movie-Ticket-Management-System-",
@@ -80,7 +80,7 @@ export const projects = {
         },
         {
             projectName: "StudentDoc App",
-            image: "images/docapp.png",
+            image: "images/docapp.JPG",
             summary:
                 "StudentDoc App is a document management platform that empowers students to efficiently manage their documents, allowing them to upload, update, delete, and download files for future use.",
             preview: "https://github.com/itsonlytamim/StudentDoc-App",
@@ -91,7 +91,7 @@ export const projects = {
     softwareProjects: [
         {
             projectName: "Chaya Healthcare Solution",
-            image: "images/pizzaorderchatbot.png",
+            image: "images/chaya.JPG",
             summary:
                 "Chaya Healthcare Solution is a chat application that facilitates communication between patients and doctors, designed to improve healthcare interactions.",
             preview: "https://github.com/itsonlytamim/Chaya-Healthcare-Solution",
@@ -101,7 +101,7 @@ export const projects = {
     androidProjects: [
         {
             projectName: "Classification-based Machine Learning Model Development For Diabetes Prediction",
-            image: "images/nitwcse.jpg",
+            image: "images/diabetes.png",
             summary:
                 "Classification-based Machine Learning Model Development For Diabetes Prediction is a data-driven project aimed at predicting diabetes with the power of machine learning and data science technique",
             preview: "https://github.com/itsonlytamim/Classification-based-Machine-learning-Model-Development-For-Diabetes-Prediction",
