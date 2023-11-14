@@ -158,7 +158,7 @@ export const footer = [
                 data: [
                     {
                         text: "Download PDF",
-                        link: "/images/Tamim, Md Shamiul Islam CV.pdf",
+                        link: "/images/Tamim, Md Shamiul Islam CV .pdf",
                         download: "tamim_cv.pdf",
                     },
                 ],
