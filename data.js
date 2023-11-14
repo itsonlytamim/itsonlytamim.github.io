@@ -154,14 +154,10 @@ export const footer = [
                 link: "https://leetcode.com/itsonlytamim/",
             },
              {
-                text: "Download my CV",
-                data: [
-                    {
-                        text: "Download PDF",
-                        link: "/images/Tamim, Md Shamiul Islam CV .pdf",
-                        download: "tamim_cv.pdf",
-                    },
-                ],
+    
+                 text: "Download PDF",
+                 link: "/images/Tamim, Md Shamiul Islam CV .pdf",
+                 download: "Tamim, Md Shamiul Islam CV .pdf",       
             },
         ],
     },
