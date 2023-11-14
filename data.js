@@ -80,7 +80,7 @@ export const projects = {
         },
         {
             projectName: "StudentDoc App",
-            image: "images/findyourbank.png",
+            image: "images/docapp.png",
             summary:
                 "StudentDoc App is a document management platform that empowers students to efficiently manage their documents, allowing them to upload, update, delete, and download files for future use.",
             preview: "https://github.com/itsonlytamim/StudentDoc-App",
